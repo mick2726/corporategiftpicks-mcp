@@ -1,0 +1,11 @@
+{
+  "name": "com.corporategiftpicks/gift-picks",
+  "description": "Corporate gift ideas by budget and recipient, USPS holiday ship-by dates and a gift budget tool.",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://corporategiftpicks.com/mcp"
+    }
+  ]
+}
