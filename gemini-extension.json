@@ -1,0 +1,9 @@
+{
+  "name": "corporate-gift-picks",
+  "version": "1.0.0",
+  "mcpServers": {
+    "cgp": {
+      "httpUrl": "https://corporategiftpicks.com/mcp"
+    }
+  }
+}
